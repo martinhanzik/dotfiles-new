@@ -1,0 +1,16 @@
+[user]
+	name = Martin Hanzík
+	email = martin@hanzik.com
+[core]
+	trustctime = false
+[rerere]
+	enabled = true
+
+[color]
+	status = auto 
+
+[color "status"]
+	added = green
+	changed = yellow
+	untracked = cyan
+	deleted = red
