@@ -50,4 +50,12 @@ trustctime = false
 
 [user]
 name = Martin Hanzík
-email = martin@hanzik.com
+	email = martin@hanzik.com
+
+[color]
+status = auto
+
+[color "status"]
+changed = yellow
+untracked = blue
+deleted = red
