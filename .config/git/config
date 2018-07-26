@@ -49,7 +49,7 @@ whitespace = space-before-tab,-indent-with-non-tab,trailing-space
 trustctime = false
 
 [user]
-name = Martin Hanzík
+	name = Martin Hanzík
 	email = martin@hanzik.com
 
 [color]
